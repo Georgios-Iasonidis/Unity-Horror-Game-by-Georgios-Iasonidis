@@ -1,6 +1,5 @@
 # Unity-Horror-Game-by-Georgios-Iasonidis
 
-[Forgiveness_README.md](https://github.com/user-attachments/files/27273061/Forgiveness_README.md)
 # Forgiveness
 
 **Forgiveness** is a psychological horror game developed in **Unity**.  
