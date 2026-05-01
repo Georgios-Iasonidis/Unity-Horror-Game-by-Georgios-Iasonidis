@@ -128,7 +128,7 @@ This project was created as an educational Unity horror game project, with a foc
 
 ## Notes
 
-- This project is presented as an educational Unity game project.
+- This project is presented as an educational Unity game project and a lot of assets and sound effects were taken by searching on the internet and they are not mine.
 - The game is available on itch.io.
 - The repository may contain scripts, animations, scenes, audio, and supporting Unity resources based on the current project structure.
 
